@@ -3,5 +3,5 @@ For this mini-project, you are going to find a graphic that already exists, crit
 
 #Original Graphic
 
-!(https://github.com/j450h1/A_Visualization_Makeover/blob/master/liberals.png)
+![](https://github.com/j450h1/A_Visualization_Makeover/blob/master/liberals.png)
 
