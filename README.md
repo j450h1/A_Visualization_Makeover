@@ -11,4 +11,6 @@ This visualization comes from Canada's Liberal Party Website. The message is:
 
 However, Canada's Real GDP Chart's scale is exaggerated as it appears to be 150% growth vs the 15% median income growth. You can see that the Real GDP arrow goes up to the 3rd line (each line is approximately 45-50% since you can fit 3 of those smaller 15% arrows in it (15*3 = 45).
 
-#Revised Visualisation
+#Revised D3 Visualisation
+
+[Click Here!](http://bl.ocks.org/j450h1/6e35d5d5c3abdd73ae7c/)
