@@ -14,3 +14,7 @@ However, Canada's Real GDP Chart's scale is exaggerated as it appears to be 150%
 #Revised D3 Visualisation
 
 [Click Here!](http://bl.ocks.org/j450h1/6e35d5d5c3abdd73ae7c/)
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/j450h1/a_visualization_makeover/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
